@@ -1,6 +1,5 @@
-# FastApi_CockroachDB
-Testing correct push again
-A reference project to try out the use of FastApi and CockroachDB cloud together.
+# rain-maker-api
+API made for rain maker js library
 
 ## Set Up
 Use the following steps to set up a project like this one:
